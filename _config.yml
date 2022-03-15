@@ -1,0 +1,25 @@
+# Base configs
+baseurl: ""
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: ""
+# UA-46465113-2
+# UI configs
+title: "Photography by photosforor"
+subtitle: "See the world through my eyes!"
+author: "photosforor"
+header:
+ title: "Photography"
+ subtitle: "by photosforor"
+footer:
+ name: "Hey there, my name is Foror"
+ bio: "I am a developer and a tech aficionado from Photosferer. Love making teeny tiny apps solving tiny problems in life and now learning photographysferer."
+ github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/regrubeis/photosforor\">fork me on github</a> ;)"
+web_design: "AJ"
+#social_urls:
+#  facebook: "https://www.facebook.com/*"
+#  twitter: "https://www.twitter.com/*"
+#  instagram: "https://www.instagram.com/*"
+#  dribbble: "https://dribbble.com/*"
+#  linkedin: "https://in.linkedin.com/in/*"
+#  github: "https://www.github.com/*"
